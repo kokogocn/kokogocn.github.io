@@ -1,0 +1,15 @@
+title: Ke Bai
+author: Ke Bai
+description: Apps by Ke Bai.
+
+# Contact address shown on every support and privacy page.
+email: "support.familyappstudio@gmail.com"
+
+# /snapotate/privacy/ rather than /snapotate/privacy.html
+permalink: pretty
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
